@@ -27,8 +27,6 @@ import oauth.signpost.exception.OAuthNotAuthorizedException;
 /**
  * Helper class for signpost oAuth more or less based on text below
  * 
- * @author http://nilvec.com/implementing-client-side-oauth-on-android.html
- *
  */
 public class OAuthHelper {
     private final static Object  lock = new Object();
